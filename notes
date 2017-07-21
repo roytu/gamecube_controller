@@ -1,0 +1,10 @@
+     .125 us per pulze
+x4 = .5us per bit
+
+Console requesting controller info
+    0100 0000 0000 0011 0001 0000
+    0x400310
+
+Controller ready (handshake)?
+    00 fd fd fd fc 00 00 00
+
